@@ -1,6 +1,6 @@
 # Hello my name is Daffa Munazzal🏎️
 ### Motorsport Enthusiast | Information System Student | Data Analyst | Software Engineer | Machine Learning Engineer</br>
-### I have a strong interest for motorsport engineering, vehicle performance analysis, and data driven decision making</br>
+### Im Data Analyst but also have a strong interest for motorsport engineering</br>
 ### Currently building motorsport telemetry and performance analysis projects using Python, Pandas, and SQL</br>
 ## [INA,ENG,DEU]
 
